@@ -3,7 +3,7 @@ title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://37uranus.github.io"
 
-remote_theme: 37uranus/tale
+remote_theme: 37uranus/
 
 
 plugins:
