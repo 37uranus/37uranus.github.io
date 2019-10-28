@@ -1,17 +1,23 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+url:            "https://37uranus.github.io"
 
+remote_theme: 37uranus/tale
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+ 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Miss 37
+  url:          https://37uranus.github.io
+  email:        haodongmei@outlook.com
 
 # Build settings
 markdown:       kramdown
