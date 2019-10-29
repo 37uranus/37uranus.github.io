@@ -8,7 +8,7 @@ remote_theme: chesterhow/tale
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
- 
+
 
 # Author
 author:
@@ -42,3 +42,6 @@ exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
 # Disqus (Set to your disqus id)
 disqus:         jekyll-tale
+
+# excerpt_separator
+excerpt_separator:  '<!-- more -->'
