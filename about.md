@@ -4,23 +4,22 @@ title: About
 permalink: /about/
 ---
 
-91年水瓶座，产品锦鲤。<br>
-性别女，爱好女。<br>
+<style>img{width: 200px;height: 200px;}</style>
+
+![KRNSxS.jpg](https://s2.ax1x.com/2019/10/29/KRNSxS.jpg)
+
+
+<center>我的微信公众号：问号疯了（madmatter）</center>
+<center>会分享一些日常和我自己关注的东西，没有什么特定主题。</center>
+<br><br>
+
+---------
+
+<br><br>
+
+#### 关于我
+
+91年水瓶座，互联网民工。<br>
 好读书，不求甚解。<br>
 有趣/耐心/专注/坦诚，愿望是能做一个温和的自由主义者。
-
-
-----------------
-
-
-<style>img{border:1px #eaeaea solid;padding: 2px;width: 100%;height: 150px;}</style>
-
-
-## Books
-
-<script type="text/javascript" src="http://www.douban.com/service/badge/ya45010424/?selection=latest&amp;picsize=small&amp;hideself=on&amp;show=collection&amp;n=12&amp;hidelogo=on&amp;cat=book&amp;columns=6"></script>
-
-
-## Movies
-
-<script type="text/javascript" src="http://www.douban.com/service/badge/ya45010424/?selection=latest&amp;picsize=small&amp;hideself=on&amp;show=collection&amp;n=12&amp;hidelogo=on&amp;cat=movie%7Cbook&amp;columns=6"></script>
+<br>
