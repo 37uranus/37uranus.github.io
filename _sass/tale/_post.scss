@@ -3,7 +3,7 @@
 
   &-info {
     color: $default-tint;
-    font-family: $serif-secondary;
+    font-family: $Helvetica;
     letter-spacing: 0.5px;
     text-align: center;
 
@@ -14,7 +14,7 @@
 
   &-title {
     color: $default-shade;
-    font-family: $sans-serif;
+    font-family: $Helvetica;
     font-size: 3rem;
     margin: 1rem 0;
     text-align: center;
@@ -30,7 +30,7 @@
   p {
     margin: 0 0 1rem;
     text-align: justify;
-    line-height: 1.7;
+    line-height: 1.8;
   }
 
   a:hover {
@@ -44,7 +44,7 @@
   img + em {
     color: $default-tint;
     display: block;
-    font-family: $sans-serif;
+    font-family: $Helvetica;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center;
