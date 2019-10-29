@@ -1,17 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Miss 37's blog
+description:    "Every day && everything."
 url:            "https://37uranus.github.io"
 
-remote_theme: 37uranus/
-
+remote_theme: chesterhow/tale
 
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
  
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
